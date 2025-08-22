@@ -1,11 +1,11 @@
-Pengalaman Belajar Dicoding
+# Pengalaman Belajar di Dicoding
 
-23 Agustus 2025
-Belajar kelas Memulai dengan program dicoding Asah.
-* Belajar tentang React dan backend.
-* Belajar tools yang dapa digunakan untuk React dan backend.
+**14 Juni 2021**<br>
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-15 Juni 2021
+**15 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
 * Belajar control flow dalam Java, seperti perulangan dan percabangan.
